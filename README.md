@@ -3,8 +3,9 @@
 What this project is about:
 
 1. Type in absolutely anything you like
-2. Search
-3. Downlaod one of the several options and enjoy!
+2. Specify the number of searches you want to see (default = 5)
+3. Click on search
+4. Downlaod one of the several options - and enjoy!
 
 # Getting Started with Create React App
 
