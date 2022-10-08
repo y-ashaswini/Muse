@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-one {
+    font-family: 'Lora', serif;
+}
+
+.text-two {
+    font-family: 'Red Hat Display', sans-serif;
+}
+
