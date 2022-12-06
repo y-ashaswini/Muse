@@ -2,10 +2,10 @@
 
 What this project is about:
 
-1. Type in absolutely anything you like
-2. Specify the number of searches you want to see (default = 5)
-3. Click on search
-4. Downlaod one of the several options - and enjoy!
+1. Type in absolutely anything you'd like to extract the audio of (name)
+2. Specify the number of search results you want it to return (default = 5)
+3. Click on the search button
+4. Download any one (or many) of the several options - and enjoy!
 
 # Getting Started with Create React App
 
