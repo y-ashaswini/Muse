@@ -110,6 +110,7 @@ export default function App() {
             )}
         </div>
       </div>
+      <a href="https://github.com/y-ashaswini/" className = "no-underline text-white hover:opacity-100 opacity-50 duration-300 absolute left-[50%] translate-x-[-50%] bottom-1 text-md">Made with <3 by Yashaswini</a>
     </div>
   );
 }
